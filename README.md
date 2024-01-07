@@ -1,5 +1,7 @@
 # Конвертер валют
 
+![conv](https://github.com/RudachenkoRoman/CurrencyConverter/assets/97969577/aa080d78-d804-4429-aa85-7c51dd67be4e)
+
 ## Запуск проекта:
 * Склонировать проект на ваш компьютер с Github с помощью команды:
 ```
