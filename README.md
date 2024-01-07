@@ -9,3 +9,5 @@ https://github.com/RudachenkoRoman/CurrencyConverter.git
 1. Открыть https://free.currencyconverterapi.com/
 2. Нажмите кнопку "Get Your Free API Key or Renew Your Expired API Key"
 3. Введите свой адрес электронной почты и нажмите "Get Your Free API Key After 3-5 Business Days"
+
+Важно! Срок действия бесплатного ключа API 30 дней.
