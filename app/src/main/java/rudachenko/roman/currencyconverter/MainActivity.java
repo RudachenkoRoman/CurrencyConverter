@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     Dialog toDialog;
     Button convertButton;
     String convertFromValue, convertToValue, convertValue;
-    String[] country = {"USD", "INR", "RUB"};
+    String[] country = {"USD", "INR", "RUB", "EUR", "AFN", "AUD", "BTN", "ALL", "BDT"};
     private final int WIGHT = 800;
     private final int HEIGHT = 800;
 
