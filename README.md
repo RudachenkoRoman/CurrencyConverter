@@ -5,3 +5,5 @@
 ```
 https://github.com/RudachenkoRoman/CurrencyConverter.git
 ```
+* Шаги, чтобы получить ключ API:
+  1. Открыть https://free.currencyconverterapi.com/
